@@ -1,4 +1,4 @@
-## Hi 😄， If you want to join us, email Professor [Pinjia He](https://pinjiahe.github.io/), a guy as nice as me.
+## Hi 😄， if you want to join us, email Professor [Pinjia He](https://pinjiahe.github.io/), a guy as nice as me.
 ## Codes for my work CipherChat and DeRTa are below 👇. 
 
 
