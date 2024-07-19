@@ -1,4 +1,4 @@
-## Hi 😄， codes for my work CipherChat and DeRTa are below. 👇
+## Hi 😄， codes for my work CipherChat and DeRTa are below 👇. If you want to join us, email professor [Pinjia He](https://pinjiahe.github.io/).
 
 <!--
 **YouliangYuan/YouliangYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
