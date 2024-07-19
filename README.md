@@ -1,4 +1,4 @@
-## Hi 😄，below are codes for my paper CipherChat and DeRTa. 👇
+## Hi 😄， codes for my work CipherChat and DeRTa are below. 👇
 
 <!--
 **YouliangYuan/YouliangYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
